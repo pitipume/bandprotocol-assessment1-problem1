@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BossBabyRevenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c44899beaf9145eba42b1c13ea4bbffde86dfa7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BossBabyRevenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BossBabyRevenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

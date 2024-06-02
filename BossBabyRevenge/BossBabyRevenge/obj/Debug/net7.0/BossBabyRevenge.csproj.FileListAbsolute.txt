@@ -1,0 +1,14 @@
+C:\Users\Pitipume\Documents\Coding\CodingTest\BandProtocol\bandprotocol-assessment1-problem1\BossBabyRevenge\BossBabyRevenge\bin\Debug\net7.0\BossBabyRevenge.exe
+C:\Users\Pitipume\Documents\Coding\CodingTest\BandProtocol\bandprotocol-assessment1-problem1\BossBabyRevenge\BossBabyRevenge\bin\Debug\net7.0\BossBabyRevenge.deps.json
+C:\Users\Pitipume\Documents\Coding\CodingTest\BandProtocol\bandprotocol-assessment1-problem1\BossBabyRevenge\BossBabyRevenge\bin\Debug\net7.0\BossBabyRevenge.runtimeconfig.json
+C:\Users\Pitipume\Documents\Coding\CodingTest\BandProtocol\bandprotocol-assessment1-problem1\BossBabyRevenge\BossBabyRevenge\bin\Debug\net7.0\BossBabyRevenge.dll
+C:\Users\Pitipume\Documents\Coding\CodingTest\BandProtocol\bandprotocol-assessment1-problem1\BossBabyRevenge\BossBabyRevenge\bin\Debug\net7.0\BossBabyRevenge.pdb
+C:\Users\Pitipume\Documents\Coding\CodingTest\BandProtocol\bandprotocol-assessment1-problem1\BossBabyRevenge\BossBabyRevenge\obj\Debug\net7.0\BossBabyRevenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pitipume\Documents\Coding\CodingTest\BandProtocol\bandprotocol-assessment1-problem1\BossBabyRevenge\BossBabyRevenge\obj\Debug\net7.0\BossBabyRevenge.AssemblyInfoInputs.cache
+C:\Users\Pitipume\Documents\Coding\CodingTest\BandProtocol\bandprotocol-assessment1-problem1\BossBabyRevenge\BossBabyRevenge\obj\Debug\net7.0\BossBabyRevenge.AssemblyInfo.cs
+C:\Users\Pitipume\Documents\Coding\CodingTest\BandProtocol\bandprotocol-assessment1-problem1\BossBabyRevenge\BossBabyRevenge\obj\Debug\net7.0\BossBabyRevenge.csproj.CoreCompileInputs.cache
+C:\Users\Pitipume\Documents\Coding\CodingTest\BandProtocol\bandprotocol-assessment1-problem1\BossBabyRevenge\BossBabyRevenge\obj\Debug\net7.0\BossBabyRevenge.dll
+C:\Users\Pitipume\Documents\Coding\CodingTest\BandProtocol\bandprotocol-assessment1-problem1\BossBabyRevenge\BossBabyRevenge\obj\Debug\net7.0\refint\BossBabyRevenge.dll
+C:\Users\Pitipume\Documents\Coding\CodingTest\BandProtocol\bandprotocol-assessment1-problem1\BossBabyRevenge\BossBabyRevenge\obj\Debug\net7.0\BossBabyRevenge.pdb
+C:\Users\Pitipume\Documents\Coding\CodingTest\BandProtocol\bandprotocol-assessment1-problem1\BossBabyRevenge\BossBabyRevenge\obj\Debug\net7.0\BossBabyRevenge.genruntimeconfig.cache
+C:\Users\Pitipume\Documents\Coding\CodingTest\BandProtocol\bandprotocol-assessment1-problem1\BossBabyRevenge\BossBabyRevenge\obj\Debug\net7.0\ref\BossBabyRevenge.dll
