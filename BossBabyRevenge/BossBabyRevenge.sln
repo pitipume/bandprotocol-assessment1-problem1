@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BossBabyRevenge", "BossBabyRevenge\BossBabyRevenge.csproj", "{201DC974-705C-477F-9797-9FD89CC92BC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{201DC974-705C-477F-9797-9FD89CC92BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{201DC974-705C-477F-9797-9FD89CC92BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{201DC974-705C-477F-9797-9FD89CC92BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{201DC974-705C-477F-9797-9FD89CC92BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {496A60B5-B756-401A-8255-546AB5155FE2}
+	EndGlobalSection
+EndGlobal
